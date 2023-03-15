@@ -1,5 +1,5 @@
 ## Olá, Bem-vindo(a) ao meu perfil 
-Meu nome é Nathalia Marques, atualmente me encontro no processo de transição de carreira, saindo da área de negócios e entrando no mundo da programação com o intuito de me tornar uma desenvolvedora FrontEnd. No meu GitHub estão os projetos que consegui desenvolver até então com as tecnologias que tenho aprendido. No momento estou aprofundando mais os meus conhecimentos em JavaScript para em seguida começar os meus estudos em TypeScript e em React. 
+Meu nome é Nathalia Marques e atualmente me encontro no processo de transição de carreira, saindo da área de negócios e entrando no mundo da programação com o intuito de me tornar uma desenvolvedora FrontEnd. No meu GitHub estão os projetos que consegui desenvolver até então com as tecnologias que tenho aprendido. No momento estou aprofundando mais os meus conhecimentos em JavaScript para em seguida começar os meus estudos em TypeScript e em React. 
 
  <div>
    <a href="https://github.com/nathaliavsmarques">  
