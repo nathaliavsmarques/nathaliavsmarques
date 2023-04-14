@@ -22,5 +22,5 @@ Meu nome é Nathalia Marques e atualmente me encontro no processo de transição
  
  <div>   
   <a href = "mailto:nathaliamarques28@gmail.com"><img width="120em" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"  target="_blank"></a>
-  <a href="https://www.linkedin.com/in/nathalia-marques-91a4a5204/" target="_blank"><img width="146em" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+  <a href="https://www.linkedin.com/in/nathaliavsmarques/" target="_blank"><img width="146em" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
  </div>
