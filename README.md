@@ -1,5 +1,5 @@
 ## Olá, Bem-vindo(a) ao meu perfil 
-Meu nome é Nathalia Marques e atualmente me encontro no processo de transição de carreira, saindo da área de negócios e entrando no mundo da programação com o intuito de me tornar uma desenvolvedora FrontEnd. No meu GitHub estão os projetos que desenvolvi até então com as tecnologias que tenho aprendido. No momento estou aprofundando mais os meus conhecimentos em TypeScript e em React. 
+Meu nome é Nathalia Marques, sou bacharel em Administração de Empresas e possuo MBA em Gestão Empresarial. Atualmente me encontro em	 processo de transição de carreira com foco na área de dados. No momento estou cursando Ciências de Dados e em paralelo aprofundando mais os meus conhecimentos em temas como SQL, Python e suas bibliotecas, e outros assuntos da área. 
 
  <div>
    <a href="https://github.com/nathaliavsmarques">  
@@ -9,11 +9,13 @@ Meu nome é Nathalia Marques e atualmente me encontro no processo de transição
  </div>
  <br>
  <div>
+    <img width="90em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />  
+    <img width="90em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />          
     <img width="100em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg"/>       
     <img width="100em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg"/>    
     <img width="90em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
     <img width="90em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-    <img width="90em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+           
           
           
                    
@@ -25,6 +27,6 @@ Meu nome é Nathalia Marques e atualmente me encontro no processo de transição
  Você também pode entrar em contato comigo pelas redes abaixo!
  
  <div>   
-  <a href = "mailto:nathaliamarques28@gmail.com"><img width="120em" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"  target="_blank"></a>
+  <a href = "mailto:nathaliavsmarques@gmail.com"><img width="120em" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"  target="_blank"></a>
   <a href="https://www.linkedin.com/in/nathaliavsmarques/" target="_blank"><img width="146em" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
  </div>
