@@ -1,5 +1,7 @@
 ## Olá, Bem-vindo(a) ao meu perfil 
-Meu nome é Nathalia Marques, sou bacharel em Administração de Empresas e possuo MBA em Gestão Empresarial. Atualmente me encontro em	 processo de transição de carreira com foco na área de dados. No momento estou cursando Ciências de Dados e em paralelo aprofundando mais os meus conhecimentos em temas como SQL, Python e suas bibliotecas, e outros assuntos da área. 
+Com formação em Administração de Empresas e MBA em Gestão Empresarial, estou em transição de carreira para a área de Dados, com objetivo de unir minha experiência em gestão a habilidades técnicas em análise e tratamento de dados. 
+
+Atualmente, estou cursando Ciências de Dados e desenvolvendo competências em Python, SQL e bibliotecas para análise e visualização de dados. Minha meta é criar análises descritivas e preditivas que auxiliem empresas a otimizar processos e alcançar resultados mensuráveis.
 
  <div>
    <a href="https://github.com/nathaliavsmarques">  
