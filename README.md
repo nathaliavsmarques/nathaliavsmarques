@@ -1,14 +1,9 @@
 ## Olá, Bem-vindo(a) ao meu perfil 
-Com formação em Administração de Empresas e MBA em Gestão Empresarial, estou em transição de carreira para a área de Dados, com objetivo de unir minha experiência em gestão a habilidades técnicas em análise e tratamento de dados. 
+Com formação em Administração de Empresas e MBA em Gestão Empresarial, estou em transição de carreira para a área de Dados e Inteligência Artificial, com o objetivo de integrar minha experiência em gestão a competências técnicas em análise e tratamento de dados.
 
-Atualmente, estou cursando Ciências de Dados e desenvolvendo competências em Python, SQL e bibliotecas para análise e visualização de dados. Minha meta é criar análises descritivas e preditivas que auxiliem empresas a otimizar processos e alcançar resultados mensuráveis.
+Atualmente, curso Tecnologia em Ciências de Dados e uma especialização em Inteligência Artificial, desenvolvendo habilidades em Python, SQL, Machine Learning e bibliotecas voltadas à análise e visualização de dados. Meu foco é construir análises descritivas e preditivas que apoiem a tomada de decisão, otimizem processos e gerem resultados mensuráveis para as organizações.
 
- <div>
-   <a href="https://github.com/nathaliavsmarques">  
-   <img width="45%" src="https://github-readme-stats.vercel.app/api?username=nathaliavsmarques&show_icons=true&theme=dracula"/>
-   <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathaliavsmarques&layout=compact&langs&theme=dracula"/>
-   
- </div>
+
  <br>
  <div>
     <img width="90em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />  
