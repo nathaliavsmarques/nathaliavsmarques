@@ -1,25 +1,34 @@
-## Olá, Bem-vindo(a) ao meu perfil 
-Com formação em Administração de Empresas e MBA em Gestão Empresarial, estou em transição de carreira para a área de Dados e Inteligência Artificial, com o objetivo de integrar minha experiência em gestão a competências técnicas em análise e tratamento de dados.
+👩🏻‍💻 Nathalia Marques
 
-Atualmente, curso Tecnologia em Ciências de Dados e uma especialização em Inteligência Artificial, desenvolvendo habilidades em Python, SQL, Machine Learning e bibliotecas voltadas à análise e visualização de dados. Meu foco é construir análises descritivas e preditivas que apoiem a tomada de decisão, otimizem processos e gerem resultados mensuráveis para as organizações.
+Data Science | Machine Learning | Inteligência Artificial
 
+Estudante de Ciência de Dados e Inteligência Artificial com foco em análise exploratória de dados (EDA), modelagem preditiva e desenvolvimento de pipelines de Machine Learning.
 
- <br>
- <div>
-    <img width="90em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />  
-    <img width="90em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />  
-           
-          
-          
-                   
- </div>   
-   
-  <br>
-  <br>
-  
- Você também pode entrar em contato comigo pelas redes abaixo!
- 
- <div>   
-  <a href = "mailto:nathaliavsmarques@gmail.com"><img width="120em" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"  target="_blank"></a>
-  <a href="https://www.linkedin.com/in/nathaliavsmarques/" target="_blank"><img width="146em" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
- </div>
+🔧 Stack principal:
+
+Python (Pandas, NumPy, Scikit-learn)
+
+SQL
+
+Machine Learning (KNN, Decision Tree, Naive Bayes, MLP)
+
+Feature Engineering
+
+Avaliação de modelos (Accuracy, Precision, Recall, F1-score)
+
+Processamento de Imagens (HOG, LBP)
+
+IA Generativa e Engenharia de Prompts
+
+📊 Interesses:
+
+Modelagem supervisionada
+
+Análise de dados aplicada a negócios
+
+IA Generativa
+
+Desenvolvimento de projetos práticos de Data Science
+
+📫 Contato:
+LinkedIn: linkedin.com/in/nathaliavsmarques
