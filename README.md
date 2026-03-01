@@ -1,4 +1,4 @@
-👩🏻‍💻 Nathalia Marques
+👩🏻‍💻 Nathalia Marques 
 
 Data Science | Machine Learning | Inteligência Artificial
 
