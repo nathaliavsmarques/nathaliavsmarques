@@ -1,7 +1,7 @@
 # 👩🏻‍💻 Nathalia Marques
 ### Ciência de Dados & Inteligência Artificial | Python · ML · Aprendizado por Reforço · LLMs
 
-Estudante de Ciência de Dados (Gran Centro Universitário) e especialização em 
+Estudante de Ciência de Dados  e especialização em 
 Inteligência Artificial no IMD/UFRN, com experiência prática em Machine Learning, 
 análise exploratória de dados (EDA) e desenvolvimento de agentes de IA com LLMs.
 
